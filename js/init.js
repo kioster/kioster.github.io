@@ -1,4 +1,4 @@
 
 $(function(){
-	$('#content').load('data/10');	
+	$('#content').load('data/6');	
 });
