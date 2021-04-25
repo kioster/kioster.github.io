@@ -1,0 +1,43 @@
+body
+{
+	padding-top: -1px;
+}
+.fullscreen-container
+{
+	padding: 1px;
+	width: 100vw;
+	height: 100vh;
+}
+.cover
+{
+	background-color: #AADDFF;
+}
+.title
+{
+	text-align: center;
+	font-size: 3em;
+	opacity: 0.4;
+}
+.center-item
+{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+.content-item
+{
+	font-size: 2em;
+	color: black;
+	opacity: 0.6;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+#main-content
+{
+	width: 80vw;
+	height: 80vh;
+	background-color: rgba(0, 0, 0, 0.2);
+}
